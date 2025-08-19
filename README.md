@@ -5,11 +5,7 @@ A snake game written in Python using the Pygame library.
 ## Installin
 Download the Python 3 installer package from the official website and install it, if not installed previously.
 e
-Run the following in the terminal to install the Pygame library
-```
-pip3 install pygame
-```
-
+Run the following in the terminal to instal
 
 ## Running the application
 Download the source code from the repository and run the file just as anfy other Python script (.py) file.
